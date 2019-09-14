@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_tabs/static/css/main.0ec4af9d.chunk.css",
+    "main.css": "/react_tabs/static/css/main.1b97e3b9.chunk.css",
     "main.js": "/react_tabs/static/js/main.3873b477.chunk.js",
     "main.js.map": "/react_tabs/static/js/main.3873b477.chunk.js.map",
     "runtime~main.js": "/react_tabs/static/js/runtime~main.310f5775.js",
@@ -8,8 +8,8 @@
     "static/js/2.be491123.chunk.js": "/react_tabs/static/js/2.be491123.chunk.js",
     "static/js/2.be491123.chunk.js.map": "/react_tabs/static/js/2.be491123.chunk.js.map",
     "index.html": "/react_tabs/index.html",
-    "precache-manifest.19437d6c2ef19cc3ea4b7808e3181232.js": "/react_tabs/precache-manifest.19437d6c2ef19cc3ea4b7808e3181232.js",
+    "precache-manifest.076fe6b04b69158e1132db0f647ca1c0.js": "/react_tabs/precache-manifest.076fe6b04b69158e1132db0f647ca1c0.js",
     "service-worker.js": "/react_tabs/service-worker.js",
-    "static/css/main.0ec4af9d.chunk.css.map": "/react_tabs/static/css/main.0ec4af9d.chunk.css.map"
+    "static/css/main.1b97e3b9.chunk.css.map": "/react_tabs/static/css/main.1b97e3b9.chunk.css.map"
   }
 }
